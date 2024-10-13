@@ -1,4 +1,4 @@
-## Hello traveler, what brings you here?
+## Hello traveler, what brings you here? 🧙‍♂️
 
 > React.js Next.js, Angular, TypeScript, Web Accessibility
 
