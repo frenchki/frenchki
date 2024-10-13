@@ -5,6 +5,8 @@
 Hi, I am Kim French, a full-stack developer and consultant at Netlight. I speak about various topics, such as career and web accessibility, both professionally and during my spare time.
 When not coding on my computer, I enjoy the outdoors with my friends, playing disc golf. 🥏
 
+### Past Speaking Events
+
 | Date      | Event                          | Location                                        | Title                                                                        |
 | --------- | ------------------------------ | ----------------------------------------------- | ---------------------------------------------------------------------------- |
 | 6.11.2023 | Utforska framtiden - HEET Club | Arcada University of Applied Sciences, Helsinki | From coding classes to consulting                                            |
